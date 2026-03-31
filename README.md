@@ -42,6 +42,7 @@
 
 ### 🧰 Tools & Technologies
 - Docker
+- Gradle
 - Git
 - Maven
 - Postman
@@ -59,16 +60,32 @@
 ## 📌 Projects
 
 ### 🔹 OTT Platform Backend (HARIOM)
-- Developed scalable REST APIs using Spring Boot  
-- Implemented JWT authentication & role-based access control  
-- Integrated payment gateway (Razorpay)  
-- Optimized database queries and improved performance  
-- Containerized application using Docker  
+-Designed and developed scalable REST APIs using Java, Spring Boot, and Spring MVC for OTT platform features like content browsing, live streaming metadata, watch history, and user preferences.
+-Implemented layered architecture (Controller, Service, Repository) following SOLID principles to ensure maintainable and testable code.
+-Integrated third-party services and payment gateway (Razorpay) for subscription-based workflows and secure transactions.
+-Designed and optimized database schemas (MySQL/MongoDB) to handle large-scale media content and user data efficiently.
+-Implemented JWT-based authentication and Spring Security to secure APIs and enable role-based access control.
+-Improved performance using query optimization, indexing, and caching strategies for faster API response times.
+-Containerized backend services using Docker for consistent deployment and environment management.
+-Documented and tested APIs using Swagger and Postman to ensure reliability and ease of integration.
 
-### 🔹 OTT Applications (ULLU, ATRANGII)
-- Built Android applications used by millions of users  
-- Integrated video streaming, offline support, and push notifications  
-- Optimized UI performance and API handling  
+### 🔹 OTT Applications (ULLU, ATRANGII, FEEL, HARI-OM)
+-Developed responsive Android mobile UIs using XML layouts, ensuring compatibility across multiple screen sizes and devices.
+Contributed to large-scale OTT applications serving 10M+ ULLU users and 1M+ ATRANGII users.
+-Integrated a video player for seamless video playback and implemented offline content viewing functionality
+-Implemented Firebase Cloud Messaging (FCM) for real-time push notifications and Firebase Remote Config to dynamically
+control app behavior and feature flags without app updates.
+-Optimized RecyclerView performance by reducing unnecessary view inflation and simplifying layout hierarchies, resulting in
+smoother UI rendering and faster screen load times.
+-Integrated Tavas Analytics to track user engagement and content interaction metrics.
+-Integrated ChottuLink for deep link generation, enabling users to share content and navigate directly to targeted screens
+within the app.
+-Utilized Volley for asynchronous API calls, implementing request queues, response handling, timeout management, and error
+handling to ensure reliable data retrieval.
+-Implemented Juspay and Razorpay SDK integrations to enable secure subscription payments, managing transaction lifecycle,
+callback handling, and payment status validation.
+-Collaborated with QA teams and conducted manual testing during development to identify and resolve UI, performance, and
+API issues, improving overall app stability 
 
 ---
 
@@ -83,7 +100,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: (Add your link)
+- 💼 LinkedIn: https://www.linkedin.com/in/ruthvik-wadkar-99603420a/
 - 📧 Email: ruthvikwadkar@gmail.com
 
 ---
