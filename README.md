@@ -47,6 +47,17 @@
 - Maven
 - Postman
 - Swagger
+- Kubernetes
+
+###  ☁️ Cloud Technologies
+AWS EC2
+AWS RDS
+AWS S3
+AWS ECR
+AWS IAM
+AWS EKS
+
+  
 
 ### 📱 Android (Secondary)
 - Android SDK
